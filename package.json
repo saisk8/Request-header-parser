@@ -1,0 +1,38 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "A project for freecodecamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somanath08/Request-header-parser.git"
+  },
+  "keywords": [
+    "Request",
+    "header",
+    "parser",
+    "freecodecamp"
+  ],
+  "author": "Sai Somanath Komanduri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somanath08/Request-header-parser/issues"
+  },
+  "homepage": "https://github.com/somanath08/Request-header-parser#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.8.2"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-useragent": "^1.0.12"
+  }
+}
